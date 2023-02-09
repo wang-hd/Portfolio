@@ -41,3 +41,15 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
+
+	.wrapper.style2.spotlights > section > div > div > ul > li{
+		font-family: 'Work Sans', sans-serif; 
+		font-size: 1em; 
+		margin-right: 20px; 
+		margin-top: 10px; 
+		color: #cdcdcd; 
+		opacity: 0.6;
+	}
+	.wrapper.style2.spotlights > section > div > div > ul > li:hover{
+		opacity: 1;
+	}
